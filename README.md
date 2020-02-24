@@ -15,7 +15,7 @@
 </p>
 
 **ImageCropper** fixes the problem when you cannot move the editing box (it always bounces back to the middle) while using native Image Picker. Bug described: [link](https://stackoverflow.com/questions/12630155/uiimagepicker-allowsediting-stuck-in-center/13167122#13167122), [link](https://stackoverflow.com/questions/41706549/cant-pan-image-taken-from-camera-with-uiimagepicker).
-Please, check [Medium](https://medium.com/@mikhailpanfilov) post with a full description👏
+Please, check [Medium](https://medium.com/@mikhailpanfilov/simple-image-picker-1d804c91c8d7) post with a full description👏
 
 <p align="center">
   <img width="769" src="https://github.com/mikhailpanfilov/ImageCropper/blob/master/ImageCropper_body.png">
